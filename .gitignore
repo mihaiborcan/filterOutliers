@@ -1,0 +1,9 @@
+result/
+target/
+target/classes
+target/filterOutliers-0.0.1-SNAPSHOT.jar
+target/generated-sources
+target/lib
+target/maven-archiver
+target/surefire
+filterOutliers.iml
